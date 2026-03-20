@@ -1,3 +1,3 @@
 # Project
-This is my first project.
-Name = Nikhil Bharitkar
+This is my first project.<br>
+Name = Nikhil Bharitkar.
